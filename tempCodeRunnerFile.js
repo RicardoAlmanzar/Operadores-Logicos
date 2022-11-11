@@ -1,5 +1,5 @@
-const aSmile = new Boo;
-const bSmile = new Boolean;
+const aSmile = false;
+const bSmile = true;
 
 if (aSmile&&bSmile || !aSmile&&!bSmile)
 {
